@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\graphics.o
+./debug\gameobject.o
+./debug\gamemath.o
+./debug\gamefield.o
+./debug\gameplayercontrols.o
+./debug\gameplayer.o
+./debug\gametimer.o
+./debug\gameenemy.o
+./debug\gameweapon.o
+);

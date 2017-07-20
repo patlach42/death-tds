@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\graphics.o
+./release\gameobject.o
+./release\gamemath.o
+./release\gamefield.o
+./release\gameplayercontrols.o
+./release\gameplayer.o
+./release\gametimer.o
+./release\gameenemy.o
+./release\gameweapon.o
+);
